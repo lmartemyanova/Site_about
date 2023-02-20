@@ -2,7 +2,7 @@
 
 > *Nothing is impossible*
 
-![](\IMG_3637.JPG)
+![](https://github.com/lmartemyanova/Site_about/blob/main/IMG_3637.JPG)
 
 ### *Some words about me*
 
